@@ -67,7 +67,7 @@
 + 자세한 내용은 [PPT자료](https://github.com/kkumtori/DACON-Traffic-Accident-Damage-Prediction-AI-Competition/blob/main/(%EC%B5%9C%EC%A2%85%EB%B3%B8)%ED%8C%80%20BITAmin%2013%EA%B8%B0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)에서 확인할 수 있습니다.
 
 ## Team Members
-[노지예](https://github.com/kkumtori), [정세웅](https://github.com/eric981218), [조성우](https://github.com/jswooo), [임홍주](https://github.com/hihongju)
+[조성우](https://github.com/jswooo), [정세웅](https://github.com/eric981218), [임홍주](https://github.com/hihongju), [노지예](https://github.com/kkumtori)
 
 ## Reference
 - 야간의 시인성 저하가 교통사고에 미치는 영향 진단-경기도 지역의 경부, 서해안, 영동, 서울외곽순환고속도로를 중심으로-
